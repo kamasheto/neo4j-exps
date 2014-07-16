@@ -1,0 +1,1 @@
+Read the blog post: http://sakr.me/1053#is-neo4j-really-good
